@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hcmuafnvt/uwp-reactnative-sample#readme",
   "dependencies": {
-    "react": "^16.0.0-alpha.12",
+    "react": "16.0.0-alpha.12",
     "react-native": "^0.47.2",
     "react-native-windows": "^0.47.0-rc.5"
   },
